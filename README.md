@@ -1,4 +1,4 @@
-# Solana Freeze Bundler
+# 🧊Solana Freeze Bundler🧊
 
 Solana Freeze Bundler is a script that deploys a token on the Solana blockchain. It bundles snipes on block 0 and automatically blacklists/freezes addresses after a swap is detected. 
 
