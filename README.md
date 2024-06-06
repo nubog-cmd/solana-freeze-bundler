@@ -6,7 +6,7 @@ It will only allow the initial snipes to sell, while any other address will be f
 
 This can be useful for managing token security and preventing malicious activities.
 
-**TELEGRAM** for contact & **POC**(Proof of Concept) & **VOUCHES**:  
+**TELEGRAM** for contact & **POC** (Proof of Concept):  
 
 [@testicklez](https://t.me/testicklez)
 
