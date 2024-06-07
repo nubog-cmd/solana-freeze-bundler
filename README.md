@@ -28,7 +28,7 @@ My discord: testicklez
 
 - Deploy a token on Solana.
 - Bundle snipes on block 0.
-- Automatically blacklist addresses after a swap is detected.
+- Automatically blacklist/freezes addresses after a swap is detected.
 
 ## Prerequisites
 
