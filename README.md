@@ -47,7 +47,7 @@ My discord: testicklez
 
 ## Configuration
 
-1. **Edit `config.ts`:**
+1. **Edit `config.js`:**
 
     Open the `config.js` file and configure deployer & funder wallet + RPC
 
