@@ -22,7 +22,7 @@ Joing my discord:
 
 Server: https://discord.gg/YExjxwYS3J
 
-My discord: _testicklez_
+My discord: testicklez
 
 ## Features
 
