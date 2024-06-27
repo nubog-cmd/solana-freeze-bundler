@@ -4,7 +4,7 @@ Solana Freeze Bundler is a script that deploys a token on the Solana blockchain.
 
 It will only allow the initial snipes to sell, while any other address will be frozen.
 
-This can be useful for managing token security and preventing malicious activities.
+This can be useful for managing token security and preventing malicious activities!
 
 **TELEGRAM** for contact & **POC** (Proof of Concept):  
 
